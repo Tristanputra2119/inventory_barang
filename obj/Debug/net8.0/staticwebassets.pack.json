@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ngurah/RiderProjects/Blazortest/Blazortest/obj/Debug/net8.0/scopedcss/projectbundle/Blazortest.bundle.scp.css",
+      "PackagePath": "staticwebassets/Blazortest.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ngurah/RiderProjects/Blazortest/Blazortest/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/ngurah/RiderProjects/Blazortest/Blazortest/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ngurah/RiderProjects/Blazortest/Blazortest/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ngurah/RiderProjects/Blazortest/Blazortest/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Blazortest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Blazortest.props",
+      "PackagePath": "build\\Blazortest.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Blazortest.props",
+      "PackagePath": "buildMultiTargeting\\Blazortest.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Blazortest.props",
+      "PackagePath": "buildTransitive\\Blazortest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
